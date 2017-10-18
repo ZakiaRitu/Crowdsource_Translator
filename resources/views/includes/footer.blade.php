@@ -2,7 +2,7 @@
 <footer class="main-footer">
         <div class="pull-right hidden-xs">
           <!-- <b>Version</b> 2.3.0 -->
-          <strong>Thanks to <a href="http://almsaeedstudio.com" target="_blank">Almsaeed Studio</a>.</strong>
+          
         </div>
           <strong>Copyright &copy;2016 <a href="#">SUST CSE</a>.</strong> All rights reserved.
 </footer>
