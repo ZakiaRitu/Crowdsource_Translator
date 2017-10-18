@@ -84,13 +84,95 @@ Route::group(array('middleware' => 'auth'), function()
 /**
  * For Importing file data into database
  *
+ * Data call from Xampp\htdocs\Crowdsource_translator\public/outputsJson/......
  */
-Route::get('fileToDatabase', function () {
+Route::post('fileToDatabase', function () {
 
-    foreach(file('full.txt') as $line) {
-        $senttence = new \App\Sentence();
-        $senttence->sentence = $line;
-        $senttence->save();
+ try{
+     $file_name = public_path().'/input/full.txt';
+     foreach(file($file_name) as $line) {
+         $senttence = new \App\Sentence();
+         $senttence->sentence = $line;
+         $senttence->save();
+     }
+
+    // return 'Data storte successfully';
+     return redirect()->route('dashboard')->with('success', 'Data storte successfully');
+ }catch (Exception $ex){
+     return 'Something went wrong';
+ }
+
+});
+
+
+
+/**
+ * Sentence with corresponding Translation Json Format
+ * Please open with notepad++
+ *Saved at  Xampp\htdocs\Crowdsource_translator\public/outputsJson/......
+ */
+Route::get('sentenceJson', function () {
+//Maximum execution time of 30 seconds default, we set 5 mins
+    ini_set('max_execution_time', 300);
+    //path initialization
+    $destinationPath = public_path().'/outputsJson/';
+    //output file name
+    $file_name = 'output'.time().'.json';
+    //folder check , if not then automatic create
+    if (!is_dir($destinationPath)) {  mkdir($destinationPath,0777,true);  }
+
+    $sentences = \App\Sentence::all();
+    foreach ($sentences as $sentence ){
+        $sentence['translation'] = \App\Translation::where('sentence_id', $sentence->id)->get();
     }
-     return "Data storte successfully";
+    File::put($destinationPath.$file_name, json_encode($sentences)); //write the file
+    return response()->download($destinationPath.$file_name);
+    return redirect()->route('dashboard')->with('success', 'Json Data Imported successfully');
+});
+
+
+/**
+ * Database to File Save
+ * Data saved at Xampp\htdocs\Crowdsource_translator\public/outputs/......
+ * Please open with notepad++
+ */
+Route::get('databaseToFile', function () {
+    //Maximum execution time of 30 seconds default, we set 5 mins
+    ini_set('max_execution_time', 300);
+    //path initialization
+    $destinationPath = public_path().'/outputs/';
+    //output file name
+    $file_name = 'output'.time().'.txt';
+    //folder check , if not then automatic create
+    if (!is_dir($destinationPath)) {  mkdir($destinationPath,0777,true);  }
+    //array for store data
+    $contents = [];
+    //grab all the sentence list
+    $sentences = \App\Sentence::all();
+    //get the sentence corresponding data one by one with foreach(for) loop and save data
+    foreach ($sentences as $sentence ){
+        //getting the sentence id and sentence in one line
+        $data =$sentence->id.'. '. $sentence->sentence;
+        //getting the sentece corresponding translation
+        $sentence['translation'] = \App\Translation::where('sentence_id', $sentence->id)->pluck('translate').PHP_EOL;
+
+        //string procssing
+        $arr =[
+            "," => ",\n", //replace logic for the comma with newline
+            "[" => "",    //replace logic for the third parenthess beginning with empty
+            "]" => " "   //relplce logic the ....with space
+         ];
+        $string2 = strtr( $sentence['translation'],$arr);  //here replace function works
+        $string = str_replace('"', ' ', $string2); // replace quatation with space
+        //end of strinf processing
+
+        $contents[] = $data."\n".$string."\n";   //sentence and translation in one variable with processing data
+        File::put($destinationPath.$file_name, $contents); //write the file
+
+    }
+    //download file
+     return response()->download($destinationPath.$file_name);
+
+    return redirect()->route('dashboard')->with('success', 'Data Exported Successfully in.['.$destinationPath.$file_name.']');
+
 });

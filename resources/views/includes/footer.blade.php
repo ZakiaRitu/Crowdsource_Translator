@@ -50,6 +50,19 @@
     @include('includes.toastr')
 
 
+
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+        /* do not add datatable method/function here , its always loaded from footer -- masiur */
+        $(document).on("click", ".deleteBtn", function() {
+            var url = "<?php echo URL::to('fileToDatabase'); ?>";
+            $(".deleteForm").attr("action", url);
+        });
+
+    });
+</script>
+
+
 <script>
     $(function() {
         // Set idle time

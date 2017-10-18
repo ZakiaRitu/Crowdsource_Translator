@@ -1,0 +1,2737 @@
+1. ﻿আমি ভাত খাই।
+
+ I eat rice. ,
+ I eat rice. ,
+ I eat rice.  
+
+2. আমি ভাত খাচ্ছি। 
+
+ I am eating rice. ,
+ I'm eating rice. ,
+ I'm eating rice.  
+
+3. আমি ভাত খাচ্ছিলাম।
+
+ I was eating rice.  
+
+4. আমি ভাত খাবো। 
+
+ I will eat rice. ,
+ I will eat rice. ,
+ I will eat rice.  
+
+5. আমি রাতে ভাত খাবো। 
+
+ I will eat rice tonight. ,
+ I will eat rice at night.  
+
+6. আমি এখন ভাত খাবো। 
+
+ I will eat rice now.  
+
+7. আমি ভাত খাই না।
+
+ I don't eat rice. ,
+ I don't eat rice. ,
+ I don't eat rice. ,
+ I don't eat rice. ,
+ i don't eat rice  
+
+8. আমি ভাত খাচ্ছি না। 
+
+ I am not eating rice. ,
+ I am not eating rice.  
+
+9. আমি ভাত খাচ্ছিলাম না।
+
+ I was not eating rice.  
+
+10. আমি ভাত খাবো না। 
+
+ i donot eat rice ,
+ I will not eat rice ,
+ I will not eat today ,
+ I will not eat rice.  
+
+11. আমি রাতে ভাত খাবো না। 
+
+ i will not have rice at night.  
+
+12. আমি এখন ভাত খাবো না। 
+
+ I won't eat rice now ,
+ I will not eat rice. ,
+ I will not eat rice not. ,
+ i do not eat rice now ,
+ I will not eat rice now.  
+
+13. তুমি কি ভাত খাবে?
+
+ Will you eat rice?  
+
+14. তুমি কি ভাত খেয়েছ? 
+
+ 
+
+15. তোমার কি ভাত খাওয়া হয়ে গিয়েছে? 
+
+ Have you taken your rice?  
+
+16. সে ভাত খাচ্ছে। 
+
+ He is eating rice ,
+ He is eating rice. ,
+ He is eating rice.  
+
+17. সে ভাত খাচ্ছিল। 
+
+ He was taking rice. ,
+ he is eating rice ,
+ He\/she was eating rice  
+
+18. সে কি ভাত খেয়েছে? 
+
+ have he eaten rice? ,
+ Has he taken his meal? ,
+ Has he taken his meal?  
+
+19. সে কি ভাত খাবে? 
+
+ Will he eat rice? ,
+ will he eat rice ? ,
+ He likes to give advise. ,
+ Will he eat rice? ,
+ is he eat rice  
+
+20. তার কি ভাত খাওয়া হয়ে গিয়েছে?  
+
+ had he finished eating? ,
+ Has he finished eating?  
+
+21. বাবা বাজারে গেছেন। 
+
+ Father has gone to the market. ,
+ Father went to market. ,
+ Father went to Market  
+
+22. বাবা বাজারে যাবেন।  
+
+ My dad will go to market.  
+
+23. বাবা বাজারে যাচ্ছেন।  
+
+ Father is going to market. ,
+ Father is going to the bazaar.  
+
+24. বাবা কি বাজারে গেছেন? 
+
+ Has dad gone to bazaar?  
+
+25. বাবা কি বাজারে যাচ্ছেন?
+
+ Is father going to the market.  
+
+26. বাবা কি আজ বাজারে যাবেন? 
+
+ Will father go to the bazaar today?  
+
+27. বাবা আজ বাজারে যাননি। 
+
+ Father didn't go to market today. ,
+ The father didn't go to market today. ,
+ Father didn't go to the bazaar today. ,
+ Father has not gone to the market today .  
+
+28. বাবা আজ বাজারে যাবেন না। 
+
+ Father won't go to the market today . ,
+ Father will not go to the bazaar today.  
+
+29. বাবা সকালে বাজারে গিয়েছিলেন। 
+
+ 
+
+30. বাবা কি সকালে বাজারে গিয়েছিলেন? 
+
+ Did father went to market in the morning?  
+
+31. বাবা কি কাল বাজারে যাবেন? 
+
+ Will father go to the market tomorrow? ,
+ Will father go to the market tomorrow? ,
+ Will father go to the bazaar tomorrow? ,
+ will father visit the market tomorrow ? ,
+ Will dad go to the bazar tomorrow?  
+
+32. করিম স্কুলে যায়। 
+
+ Karim goes to school. ,
+ Karim goes to school.  
+
+33. করিম স্কুলে যাচ্ছে। 
+
+ Karim is going to the school. ,
+ korim is going to school ,
+ Bye ,
+ KArim is going to school. ,
+ Karim is going to school. ,
+ Karim is going to school. ,
+ Karim is going to school.  
+
+34. করিম কি স্কুলে যায়? 
+
+ 
+
+35. করিম কি স্কুলে যাচ্ছে? 
+
+ Karim is going to school? ,
+ I play soccer,
+  
+
+36. সে স্কুলে যায়।  
+
+ jbgdndfn ,
+ He goes to school. ,
+ he goes to school  
+
+37. সে স্কুলে যায় না।
+
+ He doesn't go to school.  
+
+38. সে স্কুলে যাচ্ছে। 
+
+ he is going to school  
+
+39. সে কি স্কুলে যাচ্ছে?
+
+ Is he\/she going to school? ,
+ Is he going to school? ,
+ Is he going to school?  
+
+40. সে কি স্কুলে যায়? 
+
+ Does he\/she go to school?  
+
+41. করিম স্কুলে যায় না।  
+
+ Karim does not go to school. ,
+ KArim doesn't go to school. ,
+ karim goes to school.  
+
+42. করিম স্কুলে যাবে না।  
+
+ Korim do not go to school ,
+ Karim will not go to school.  
+
+43. করিম হেঁটে হেঁটে স্কুলে যায়।
+
+ Karim walks to the walk to school. ,
+ karim goes to school by walking  
+
+44. করিম রোজ হেঁটে হেঁটে স্কুলে যায়। 
+
+ Karim goes to school every day by walking ,
+ Karim walks to the school everyday. ,
+ Karim is going to sleep.  
+
+45. করিম হেঁটে হেঁটে স্কুলে যায় না।
+
+ Karim does not go to scholl by foot  
+
+46. করিম রোজ হেঁটে হেঁটে স্কুলে যায় না। 
+
+ rahim does not go to school by walking ,
+ Karim does not go to school on foot daily. ,
+ karim does not go to school by walking every time.  
+
+47. করিম হেঁটে হেঁটে স্কুলে যাচ্ছে।
+
+ Karim is walking to the school.  
+
+48. করিম ধীরে ধীরে হেঁটে স্কুলে যাচ্ছে।
+
+ Karim is walking slowly to the school.  
+
+49. করিম দ্রুত হেঁটে স্কুলে যাচ্ছে।
+
+ Karim is walking to the school very fast . ,
+ Karim is walking quickly to the school.  
+
+50. করিম কি আজ স্কুলে গেছে? 
+
+ did Karim got school today? ,
+ Did you finish the job ,
+ karim has gone to school  
+
+51. করিম কি গতকাল স্কুলে গিয়েছিল? 
+
+ Did Karim go to school yesterday?  
+
+52. করিম কি আগামীকাল স্কুলে যাবে? 
+
+ 
+
+53. আমি এখন ব্যস্ত আছি। 
+
+ I am busy now.  
+
+54. আমি আজ ব্যস্ত আছি। 
+
+ I am busy today. ,
+ i am busy today ,
+ I'm busy today. ,
+ I am busy today. ,
+ I am busy today .  
+
+55. আমি এখন ব্যস্ত নই।  
+
+ I am not busy now. ,
+ I am not busy now. ,
+ I am not busy right now. ,
+ I am not busy now.  
+
+56. আমি আজ ব্যস্ত নই। 
+
+ I am not busy today. ,
+ I am not busy today ,
+ I am not busy today. ,
+ I'm not busy today. ,
+ I am not busy today. ,
+ toay i am not busy ,
+ I am not buys today. ,
+ I am not busy today .  
+
+57. আমি আগামীকাল ব্যস্ত থাকবো। 
+
+ I'll be busy tomorrow. ,
+ I will be busy tomorrow. ,
+ i will busy tomorrow ,
+ I will be busy tomorrow. ,
+ I will be busy tomorrow.  
+
+58. আমি গতকাল ব্যস্ত ছিলাম। 
+
+ I was busy yesterday. ,
+ I was busy yesterday. ,
+ I was busy yesterday.  
+
+59. আমি আগামীকাল ব্যস্ত থাকবো না।  
+
+ I will not busy tomorrow ,
+ I will not be busy tomorrow. ,
+ I will not be busy tomorrow. ,
+ I will not be busy tomorrow.  
+
+60. আমি গতকাল ব্যস্ত ছিলাম না। 
+
+ I was not busy yesterday. ,
+ I was not busy yesterday .  
+
+61. আপনি কি আগামীকাল ব্যস্ত থাকবেন? 
+
+ Will you be busy tomorrow? ,
+ Are you going to be busy tomorrow?  
+
+62. আপনি কি গতকাল ব্যস্ত ছিলেন?  
+
+ were u busy yesterday? ,
+ Are you busy yesterday? ,
+ were you busy yesterday ?  
+
+63. আপনি কি আজ ব্যস্ত আছেন? 
+
+ Are you busy today? ,
+ Are you busy today? ,
+ Are you busy today? ,
+ Are you busy today ?  
+
+64. বাবা আজ অনেক ব্যস্ত।
+
+ 
+
+65. বাবা কি আজ অনেক ব্যস্ত?
+
+ Is father really busy today ,
+ Is father very busy today? ,
+ Is father too busy today?  
+
+66. বাচ্চারা মাঠে খেলছে। 
+
+ Children are playing in the field.  
+
+67. বাচ্চারা মাঠে ফুটবল খেলছে। 
+
+ kids are playing football in the field ,
+ kids are playing football in the field ,
+ KIds are playing football in the field.  
+
+68. বাচ্চারা মাঠে ক্রিকেট খেলছে। 
+
+ Childrens are playing cricket in the field.  
+
+69. বাচ্চারা মাঠে লুকোচুরি খেলছে। 
+
+ Children are playing hide and seek in field. ,
+ Children are playing hide and seek in the field.  
+
+70. বাচ্চারা বিকালে মাঠে খেলাধুলা করে।  
+
+ kids play football in the field at afternoon ,
+ The kids play in the field in the afternoon.  
+
+71. বাচ্চারা বিকালে মাঠে ফুটবল খেলে। 
+
+ In the afternoon children play football in the field . ,
+ Kids play football in the field in the afternoon. ,
+ Children play football in the evening ,
+ Children play football in the field at evening.  
+
+72. বাচ্চারা বিকালে মাঠে ক্রিকেট খেলে। 
+
+ Boyes play cricket in the fild in after noon ,
+ In the afternoon children play cricket in the field . ,
+ Children's don't love ice-cream. ,
+ The kids play cricket on the field in the afternoon. ,
+ children play cricket in the evening in the field.  
+
+73. বাচ্চারা বিকালে মাঠে লুকোচুরি খেলে।  
+
+ 
+
+74. বাচ্চারা প্রতিদিন বিকালে মাঠে খেলাধুলা করে। 
+
+ Children play in the field every afternoon.  
+
+75. বাচ্চারা রোজ বিকালে মাঠে খেলাধুলা করে। 
+
+ children play every day in the field  
+
+76. খেলাধুলা স্বাস্থের জন্যে উপকারী। 
+
+ Playing is beneficial to the  health . ,
+ Playing is good for health.  
+
+77. খেলাধুলা শরীর ও মনের জন্যে উপকারী।  
+
+ Sport is beneficial for body and mind. ,
+ Sports are good for health & mind.  
+
+78. খেলাধুলা করলে মন ভাল থাকে।  
+
+ kjbjkefjewf  
+
+79. খেলাধুলা করলে শরীর ভাল থাকে। 
+
+ 
+
+80. রহিম বেড়াতে যাচ্ছে। 
+
+ 
+
+81. রহিম বন্ধুদের সাথে বেড়াতে যাচ্ছে।
+
+ If the sport is good then the mind.  
+
+82. রহিম তার বাবা-মার সাথে বেড়াতে যাচ্ছে। 
+
+ 
+
+83. রহিম তার পরিবারের সাথে বেড়াতে যাচ্ছে।
+
+ 
+
+84. রহিম সিলেটে বেড়াতে যাচ্ছে। 
+
+ rahim is going to sylhet ,
+ Rahim is going to visit sylhet .  
+
+85. রহিম বন্ধুদের সাথে সিলেটে বেড়াতে যাচ্ছে।
+
+ Rahim is going to Sylhet with his friends. ,
+ Rahim is going to visit Sylhet with friends.  
+
+86. রহিম তার বাবা-মার সাথে সিলেটে বেড়াতে যাচ্ছে। 
+
+ Rahim is travelling to Sylhet with his parents. ,
+ Rahim is going to visit Sylhet with his parents. ,
+ rahim is going to sylhet with his parents  
+
+87. রহিম তার পরিবারের সাথে সিলেটে বেড়াতে যাচ্ছে।
+
+ IRahim is going to visit sylhet with his family  
+
+88. রহিম এক সপ্তাহের জন্য বেড়াতে যাচ্ছে।  
+
+ hgdsfyhdxsteh ,
+ Rahim is going on a tour for a week.  
+
+89. রহিম সামনের সপ্তাহে বেড়াতে যাচ্ছে।
+
+ 
+
+90. রহিম সামনের সপ্তাহে বন্ধুদের সাথে বেড়াতে যাচ্ছে।
+
+ Rahim is going on a tour with his friends next week.  
+
+91. রহিম সামনের সপ্তাহে তার বাবা-মার সাথে বেড়াতে যাচ্ছে। 
+
+ 
+
+92. রহিম সামনের সপ্তাহে তার পরিবারের সাথে বেড়াতে যাচ্ছে।
+
+ ssdfsd  
+
+93. রহিম আমাদের সাথে বেড়াতে যাচ্ছে।
+
+ Rahim is going to visit with us.  
+
+94. রহিম আমাদের সাথে বেড়াতে যাচ্ছে না। 
+
+ rahim is not going to us ,
+ Rahim is not going to travel with us.  
+
+95. রহিম কি আমাদের সাথে বেড়াতে যাচ্ছে?
+
+ Is Rahim going to the tour with us? ,
+ Is Rahim coming to vist with us? ,
+ Is Rahim going out with us?  
+
+96. সে বেড়াতে যাচ্ছে।
+
+ He is going to have a walk. ,
+ He's going to visit  
+
+97. সে আমাদের সাথে বেড়াতে যাচ্ছে।
+
+ He is going to have a walk with us. ,
+ He is going to travel with us.  
+
+98. সে কি আমাদের সাথে বেড়াতে যাচ্ছে? 
+
+ hi! ,
+ Is he going to visit with us?  
+
+99. সে বেড়াতে যাবে। 
+
+ He will go to visit. ,
+ He will go to hang out . ,
+ He will go out today.  
+
+100. সে গত মাসে বেড়াতে গিয়েছিল। 
+
+ he went to visit previous month. ,
+ He travelled last month. ,
+ Difficulty in class classes on holiday  
+
+101. সে কি গত মাসে বেড়াতে গিয়েছিল? 
+
+ 
+
+102. সে গত মাসে তার পরিবারের সাথে বেড়াতে গিয়েছিল। 
+
+ He went to visit with his family last month.  
+
+103. সে গত মাসে তার বন্ধুদের সাথে বেড়াতে গিয়েছিল। 
+
+ 
+
+104. তুমি কি কাজটি শেষ করেছ? 
+
+ 
+
+105. সে তাকে দেয়া কাজটি শেষ করেছে। 
+
+ He finished the work which was given to him. ,
+ He finished the work that given to him ,
+ He has finished his allotted task  
+
+106. তাকে দেয়া কাজটি কি শেষ হয়েছে?
+
+ Has the work given to him end?  
+
+107. তার গতকাল কাজটি শেষ করার কথা ছিল। 
+
+ 
+
+108. তার আজকে কাজটি শেষ করার কথা ছিল।
+
+ 
+
+109. আগামিকালের মধ্যে তার কাজটি শেষ হয়ে যাবে। 
+
+ He will have finished the work by tomorrow. ,
+ His work will be done within tomorrow ,
+ He will have finished the work by tomorrow.  
+
+110. সে তাকে দেয়া কাজটি শেষ করেনি।  
+
+ He didn't finish his work ,
+ f  
+
+111. তোমার কাজ কি আগামিকালের মধ্যে শেষ হবে?
+
+ Will your work be finished within tomorrow? ,
+ will your work be finished by tomorrow? ,
+ Will your work be finished by tomorrow? ,
+ HAve you ever played football?  
+
+112. তোমার কাজ কবে শেষ হবে? 
+
+ When will your work end ? ,
+ When will your work will be finished? ,
+ When will your work be finished?  
+
+113. কাজটি দ্রুত শেষ কর। 
+
+ complete the work quickly. ,
+ Do the work fast. ,
+ Finish the work fast.  
+
+114. কাজটি দ্রুত শেষ করতে হবে। 
+
+ the work should be done quickly ,
+ The work has to be done quickly ,
+ The job has to end quickly. ,
+ complete the work quickly.  
+
+115. কাজটি সময় নিয়ে করবে। 
+
+ do the work by taking time ,
+ The job will take time.  
+
+116. কাজটি যত্ন নিয়ে করবে। 
+
+ I will do the work with care. ,
+ Mitu doesn't sing. ,
+ Do this work very carefully . ,
+ Do the work with care.  
+
+117. কাজটি যত্ন নিয়ে করতে হবে। 
+
+ You have to do the work with care. ,
+ you have to complete the work with care. ,
+ The work has to be done very carefully . ,
+ The work should be done with care.  
+
+118. মা রান্নাঘরে কাজ করছেন। 
+
+ Mom is working in the kitchen. ,
+ I am not playing football ,
+ Mom is working in the kitchen.  
+
+119. মা সকাল থেকে রান্নাঘরে কাজ করছেন। 
+
+ mother is working at kichen since morning.  
+
+120. মা রান্নাঘরে রান্না করছেন। 
+
+ Mother cooks in the kitchen. ,
+ Mother cooks in the kitchen.  
+
+121. মা আজ অনেক কিছু রান্না করছেন। 
+
+ Mother cooked a lot of dishes today. ,
+ Mother cooked a lot today.  
+
+122. মা আজ অনেক খাবার রান্না করেছেন। 
+
+ Mother cooked many foods today. ,
+ Mother has cooked a lot of food today.  
+
+123. মা আজ মজার মজার খাবার রান্না করেছেন। 
+
+ i will eat rice at night. ,
+ Ma has cooked delicious foods today ,
+ Mom cooked fun food today. ,
+ Mom cooked fun food today. ,
+ mother has made  delicious food today  
+
+124. মার রান্না এখন শেষ হয়নি।
+
+ The cooking of my mother has not finished yet. ,
+ Mother has not yet finished cooking.  
+
+125. মার রান্না শেষ হয়ে গিয়েছে।
+
+ mother has finished her cooking . ,
+ are you reading book>  
+
+126. মার রান্না কি শেষ হয়েছে?
+
+ 
+
+127. মা আজ কি রান্না করছেন?
+
+ What has mother cooked today?  
+
+128. বাইরে অনেক বৃষ্টি পড়ছে। 
+
+ 
+
+129. আজ সারাদিন ধরে বৃষ্টি পড়ছে।
+
+ 
+
+130. বাইরে কি বৃষ্টি পড়ছে? 
+
+ 
+
+131. বৃষ্টি কি থেমেছে?
+
+ 
+
+132. বৃষ্টি কি এখনও হচ্ছে?
+
+ Is it still raining?  
+
+133. বাইরে কি এখনও বৃষ্টি পড়ছে?
+
+ Is it still raining outside ? ,
+ Is the rain still outside? ,
+ Is it still raining today?  
+
+134. বর্ষাকালে অনেক বৃষ্টি হয়। 
+
+ I will play football. ,
+ His job was to end\r\nHis job was to end today. today. ,
+ It rains heavily in the rainy season.  
+
+135. বাইরে অনেক ঝড় হচ্ছে। 
+
+ There are many storms outside. ,
+ There are many storms outside. ,
+ It is raining heavily outside. ,
+ Have you finished your work? ,
+ It is very stormy outside.  
+
+136. আজ সারাদিন ধরে ঝড়বৃষ্টি হচ্ছে। 
+
+ It is raining today all day long.  
+
+137. বৃষ্টি এখনও থামেনি। 
+
+ 
+
+138. বৃষ্টি থামলে আমরা বাইরে যাব। 
+
+ We will go outside after the rain finished ,
+ we will go outside after raining  
+
+139. বৃষ্টি না হলে আমরা বাইরে যাব।  
+
+ We will go out if it doesn't rain. ,
+ If we do not have rain,
+ we will go out. ,
+ If it does not rain,
+we will go out. ,
+ If we do not have rain,
+ we will go out.  
+
+140. হাসান ঘুড়ি উড়াচ্ছে। 
+
+ Hasan kites are flying.  
+
+141. হাসান ঘুড়ি উড়াতে অনেক পছন্দ করে। 
+
+ Hasan likes to fly kite. ,
+ Hasan like flying kites a lot.  
+
+142. হাসান ঘুড়ি উড়াতে পছন্দ করে না।
+
+ Hasan doesn't like flying kites. ,
+ Hasan doesn't like flying kites. ,
+ Dad is reading the magazine?  
+
+143. হাসান প্রায়ই বন্ধুদের সাথে ঘুড়ি উড়ায়।
+
+ Hasan often fly kites with his friends.  
+
+144. হাসান তার ভাইয়ের সাথে ঘুড়ি উড়াচ্ছে।
+
+ Hasan is flying kite with his brother. ,
+ Hasan is kites with his brother. ,
+ Hasan is kites with his brother. ,
+ Hasan is flying kites with his brother.  
+
+145. হাসান প্রায়ই তার ভাইয়ের সাথে ঘুড়ি উড়ায়। 
+
+ Hasan  ride kite with his brother often  
+
+146. হাসান ও তার ভাই ঘুড়ি উড়াতে অনেক পছন্দ করে। 
+
+ 
+
+147. হাসান ঘুড়ি উড়াচ্ছিল। 
+
+ Hasan was flying kite. ,
+ Hasan was flying kites.  
+
+148. হাসান ঘুড়ি উড়াচ্ছিল না। 
+
+ 
+
+149. বাবা অফিসে গেছেন।  
+
+ Father has gone to his office. ,
+ Dad went to the office. ,
+ Has father finished taking rest? ,
+ uchdhd  
+
+150. বাবা অফিসে যাবেন।  
+
+ Mitu can not sing a song.  
+
+151. বাবা অফিসে যাচ্ছেন।  
+
+ Dad is going to the office. ,
+ Father is going to the office. ,
+ Father is going to office.  
+
+152. বাবা কি অফিসে গেছেন? 
+
+ 
+
+153. বাবা কি অফিসে যাচ্ছেন?
+
+ Are you going to the office?  
+
+154. বাবা কি আজ অফিসে যাবেন? 
+
+ Will father go to office today? ,
+ Will father go to office today? ,
+ Will father go to office today?  
+
+155. বাবা আজ অফিসে যাননি। 
+
+ Father didn't go to his office today. ,
+ Father did not go to office today  
+
+156. বাবা আজ অফিসে যাবেন না।  
+
+ Father doesn't go to office today. ,
+ does father not go to office today ,
+ Father will not go to office today ,
+ Father won't go to the office today .  
+
+157. বাবা কি কাল অফিসে যাবেন? 
+
+ Will father go to office tomorrow?  
+
+158. মিজান দোকানে যাচ্ছে।
+
+ Mizan is going to shop. ,
+ Mizan is  going to the shop .  
+
+159. মিজান দোকানে গেছে। 
+
+ Mizan went to a shop.  
+
+160. মিজান দোকানে গেছিল। 
+
+ mizan went to shop. ,
+ Mizan went to the shop. ,
+ Mizan went to the shop. ,
+ Mizan went to the shop.  
+
+161. মিজান দোকানে যাবে। 
+
+ Mizan will go to a shop. ,
+ Mijan will go to the store ,
+ Mijan will go to shop. ,
+ mijar will go to shop  
+
+162. মিজান দোকানে যায়নি। 
+
+ Mizan did not go to shop. ,
+ mizan didnt go to shop.  
+
+163. মিজান কি দোকানে যাচ্ছে?
+
+ Father has gone to market.  
+
+164. মিজান কি দোকানে গেছে?
+
+ 
+
+165. মিজান কি দোকানে গেছিল।? 
+
+ Mizan went to the shop. ,
+ did mizan go to shop  
+
+166. মিজান কি দোকানে যাবে? 
+
+ Will Mijan go to the shop ? ,
+ Will Mizan go to the shop?  
+
+167. মিজান কখন দোকানে গিয়েছিল?
+
+ when did Mizan go to the shop ? ,
+ When did Mizan go to the shop?  
+
+168. মিজান কি গতকাল দোকানে গিয়েছিল? 
+
+ Did Mizan go to the shop yesterday?  
+
+169. মিজান গতকাল দোকানে যায়নি ।
+
+ Mizan did not shop yesterday. ,
+ Mizan didn't go the shop yesterday. ,
+ Mizan didnt go to shop yesterday. ,
+ Mizan didn't go to the shop yesterday.  
+
+170. মা মিজানকে দোকানে পাঠিয়েছেন। 
+
+ Mother sent Mizan to store ,
+ Mother has sent Mijan to shop. ,
+ Mother sent Mizan to the shop. ,
+ Mother sent Mizan to the shop. ,
+ Mother sent Mijan to market.  
+
+171. মা মিজানকে দোকানে পাঠান নি। 
+
+ 
+
+172. মা কি মিজানকে দোকানে পাঠিয়েছেন?
+
+ Has mom sent Mizan to shop?  
+
+173. মা মিজানকে দোকানে পাঠিয়েছিলেন। 
+
+ Mother sent Mizan to a shop.  
+
+174. মিজান দোকান থেকে ফেরত এসেছে।
+
+ Mijan has return form shop ,
+ Mizan came back from the shop. ,
+ mizan has come back from shop  
+
+175. মিজান এখনও দোকান থেকে ফেরত আসেনি। 
+
+ 
+
+176. বাবা রোজ সকালে হাঁটতে যান। 
+
+ Father goes to walk every morning. ,
+ father goes for walk every morning. ,
+ Father walks in the morning daily.  
+
+177. বাবা রোজ সকালে হাঁটতে যান না। 
+
+ Father does not go to walk every morning. ,
+ Father doesn't go for a walk every morning.  
+
+178. বাবা কি রোজ সকালে হাঁটতে যান?
+
+ 
+
+179. বাবা মাঝে মাঝে সকালে হাঁটতে যান।  
+
+ Sometimes father goes to walk in the morning. ,
+ sometimes Father goes for walk in the morning .  
+
+180. বাবা নিয়মিত সকালে হাঁটতে যান। 
+
+ My dad goes for a walk every morning. ,
+ Father regularly goes for walk in the morning.  
+
+181. বাবা আজ সকালে হাঁটতে গিয়েছিলেন। 
+
+ Baba had gone for a walk this morning  
+
+182. বাবা হাঁটতে গেছেন। 
+
+ 
+
+183. বাবা কি হাঁটতে গেছেন?
+
+ Did Dad walk?  
+
+184. বাবা হাঁটতে যাচ্ছেন। 
+
+ Father is going for a walk. ,
+ Father is going for a walk.  
+
+185. বাবা এখন হাঁটতে যাবেন।  
+
+ Father will go for a walk now. ,
+ father will  go for walk now ,
+ Father will go for a walk now. ,
+ Father will go for a walk now.  
+
+186. বাবা কি এখন হাঁটতে যাবেন?
+
+ Is father going for a walk now?  
+
+187. বাবা আজ সকালে হাঁটতে যাননি। 
+
+ Father didn't go on walk  today.  
+
+188. বাবা কি আজ সকালে হাঁটতে গিয়েছিলেন? 
+
+ 
+
+189. মিনা বই কিনতে গেছে।
+
+ Mina has gone to buy books.  
+
+190. মিনা বন্ধুদের সাথে বই কিনতে গেছে।
+
+ I am looking for her ,
+ Mina has gone to buy books with her friends.  
+
+191. মিনা কোথায় গেছে?
+
+ Where is Mina? ,
+ He goes to school  
+
+192. মিনা কখন ফিরবে?
+
+ When Mina will return? ,
+ When will Mina return?  
+
+193. মিনা বন্ধুদের সাথে বই কিনতে যাবে। 
+
+ Mina will go to buy book with her friends. ,
+ Mina went to buy books with friends.  
+
+194. মিনা কি বন্ধুদের সাথে বই কিনতে যাবে? 
+
+ Will Mina go to buy books with her friends? ,
+ Will Mina go to buy book with her friends?  
+
+195. মিনা বই কিনতে দোকানে গেছে।
+
+ Mina went to shop to buy book.  
+
+196. মিনা বই কিনতে দোকানে গিয়েছিল। 
+
+ Mina went to shop  for buying a book. ,
+ Mina went to store to buy books  
+
+197. মিনা বই কিনতে দোকানে যাবে। 
+
+ Meena will go to a shop to buy a book. ,
+ Mina will go to the shop to buy books. ,
+ Mina will go to the shop  to buy books. ,
+ Mina will go to buy books  
+
+198. মিনার বই কিনতে দোকানে যাওয়া প্রয়োজন। 
+
+ Need to go to the shop to buy a minaret book. ,
+ Do children like sweet? ,
+ Mina needs to go to shop to buy book.  
+
+199. মিনা বন্ধুদের সাথে বই কিনতে গিয়েছিল। 
+
+ Mina had gone to by books with her friends ,
+ Mina went to buy books with friends. ,
+ Mina went to buy books with her friends. ,
+ Mina went to the buy books with her friends. ,
+ Meena went to buy books with friends. ,
+ Mina went to buy books with her friends .  
+
+200. মিনার কি বই কেনা হয়েছে?
+
+ Do Mina buy book? ,
+ Has Mina bought her book?  
+
+201. মিনা বই কিনতে যাবে না। 
+
+ Mina will not  go to buy book  
+
+202. তুমি তার সাথে দেখা করবে। 
+
+ You will meet him.  
+
+203. তোমার তার সাথে দেখা করা উচিত। 
+
+ You should meet up with him. ,
+ You should see him.  
+
+204. তুমি কি তার সাথে দেখা করবে?
+
+ 
+
+205. তুমি কি তার সাথে দেখা করেছিলে? 
+
+ Did you met with him ? ,
+ Had you gone to meet her ,
+ Did you meet him? ,
+ Did you meet up with him?  
+
+206. তুমি তার সাথে দেখা করবেনা।
+
+ You will not meet her. ,
+ you will not meet him. ,
+ You will not meet her. ,
+ You will not meet her.  
+
+207. তোমার তার সাথে দেখা করা উচিত না। 
+
+ You should not meet her.  
+
+208. তুমি কি তার সাথে দেখা করেছ?
+
+ 
+
+209. তোমার তার সাথে দেখা হলে জানিয়ো। 
+
+ Let me know if you meet him ,
+ Let me know if you meet her.  
+
+210. তোমার কি তার সাথে দেখা হয়েছে?
+
+ Have you met him? ,
+ Did you meet him ?  
+
+211. তোমার কি তার সাথে দেখা হবে?
+
+ will you meet with him  
+
+212. তোমার কি তার সাথে দেখা হয়েছিল? 
+
+ Did you meet her? ,
+ Did you met her  ?  
+
+213. তুমি তার সাথে কথা বলবে। 
+
+ you will talk with him ,
+ you will talk with her. ,
+ You will talk to him.  
+
+214. তোমার তার সাথে কথা বলা উচিত। 
+
+ You should talk with her. ,
+ You shouldn't talk with him. ,
+ You need to talk with him. ,
+ You should talk to him.  
+
+215. তুমি কি তার সাথে কথা বলবে?
+
+ Will you talk to her ? ,
+ Will you talk with him? ,
+ farmer  
+
+216. তুমি কি তার সাথে কথা বলেছিলে? 
+
+ Did you talk to him? ,
+ Did you talk to him?  
+
+217. তুমি তার সাথে কথা বলবে না।
+
+ You will not talk to him\/her. ,
+ You do not talk with him ,
+ You will not talk to her.  
+
+218. তোমার তার সাথে কথা বলা উচিত না। 
+
+ You should not talk with him ,
+ You must not  talk to her. ,
+ Yo should not talk with him. ,
+ You should not talk to him ,
+ You should not talk to her.  
+
+219. তুমি কি তার সাথে কথা বলেছ? 
+
+ Have you talk with him? ,
+ i will find him  
+
+220. তোমার তার সাথে কথা হলে জানিয়ো।  
+
+ 
+
+221. তোমার কি তার সাথে কথা হয়েছে?
+
+ Had you have a conversation with him?  
+
+222. তোমার কি তার সাথে কথা হবে?
+
+ Will you meet him? ,
+ Will you have a chat with him?  
+
+223. তোমার কি তার সাথে কথা হয়েছিল?
+
+ Did you have a conversation with him ? ,
+ did you talk withn him today ,
+ Did you talk to him? ,
+ Did you talk to him?  
+
+224. বাবা রোজ সকালে পত্রিকা পড়েন।  
+
+ 
+
+225. বাবা রোজ সকালে পত্রিকা পড়েন না। 
+
+ Father does not read newspaper in the morning everyday ,
+ The shepherd was rubbing the cow in the field.  
+
+226. বাবা কি রোজ সকালে পত্রিকা পড়েন?
+
+ Does father read paper every morning. ,
+ Did the father read the magazine every morning? ,
+ Did the father read the magazine every morning? ,
+ Does father read newspaper every morning?  
+
+227. বাবা মাঝে মাঝে সকালে পত্রিকা পড়েন।  
+
+ Father sometimes reads the newspaper in the morning. ,
+ father reads newspaper sometimes in the mortning ,
+ Father sometimes reads newspaper in the morning. ,
+ father read magazine  
+
+228. বাবা নিয়মিত সকালে পত্রিকা পড়েন।  
+
+ 
+
+229. বাবা পত্রিকা পড়ছেন।  
+
+ Father is reading newspaper.  
+
+230. বাবা কি পত্রিকা পড়ছেন?
+
+ is father reading newspaper? ,
+ Is father reading newspaper?  
+
+231. বাবা এখন পত্রিকা পড়ছেন।  
+
+ Father is reading newspaper right now . ,
+ My father is reading magazine. ,
+ father is reading nerwspaper now  
+
+232. বাবা আজ সকালে পত্রিকা পড়েননি।  
+
+ Father did not read the magazine this morning.  
+
+233. বাবা কি আজ সকালে পত্রিকা পড়েছিলেন?  
+
+ 
+
+234. নিয়মিত পত্রিকা পড়া ভাল অভ্যাস। 
+
+ It's a good habit to read newspaper regularly .  
+
+235. নিয়মিত পত্রিকা পড়া উচিত। 
+
+ You should regularly read newspapers.  
+
+236. বাবা আগে রোজ সকালে পত্রিকা পড়তেন। 
+
+ father read newspaper everyday ,
+ Father used to read newspaper everyday in the morning . ,
+ Dad used to read the magazine every morning before.  
+
+237. বাবার এখনও পত্রিকা পড়া শেষ হয়নি।
+
+ Dad did not even finish reading the magazine. ,
+ Father has not finished reading the newspaper yet ,
+ Dad hasn't finished reading newspaper yet.  
+
+238. বাবার কি এখনও পত্রিকা পড়া শেষ হয়নি?
+
+ Haven't dad still end up reading the newspaper? ,
+ Hasn't father finished reading newspaper yet? ,
+ Mijan went to shop.  
+
+239. আমাদের জাতীয় ফুল শাপলা।
+
+ Our national flower is Shapla.  
+
+240. আমাদের জাতীয় ফল কাঁঠাল।
+
+ Our national fruit is Jack-fruit.  
+
+241. বাংলাদেশের জাতীয় পাখি দোয়েল।
+
+ The national bird of Bangladesh,
+ Doyle ,
+ Magpie is the national bird of Bangladesh.  
+
+242. বাংলাদেশের জাতীয় পশু রয়েল বেঙ্গল টাইগার।
+
+ The national animal of Bangladesh is royal bengal tiger. ,
+ Royal Bengal Tiger,
+ the national animal of Bangladesh. ,
+ The national animal of Bangladesh is Royal Bengal Tiger. ,
+ The national animal of Bangladesh is Royal Bengal Tiger.  
+
+243. বাংলাদেশের জাতীয় পতাকার রং লাল সবুজ।
+
+ 
+
+244. বাংলাদেশের জাতীয় ফুল শাপলা।
+
+ Water Lily is the national flower of Bangladesh. ,
+ Bangladesh's national flower is Shapla. ,
+ no  
+
+245. বাংলাদেশের জাতীয় ফল কাঁঠাল।
+
+ The national fruit of Bangladesh is the Jackfruit.  
+
+246. আমাদের জাতীয় পাখি দোয়েল।
+
+ 
+
+247. আমাদের জাতীয় পশু রয়েল বেঙ্গল টাইগার।
+
+ Our National Animal Royal Bengal Tiger  
+
+248. আমাদের জাতীয় পতাকার রং লাল সবুজ।
+
+ The color of our national flag is red and green. ,
+ The colors of our national flag are red-green. ,
+ The color of our national flag is red and green ,
+ The colors of our national flag are red-green. ,
+ Did you meet him  
+
+249. করিম এখন ঘুমাচ্ছে। 
+
+ Karim is sleeping now. ,
+ Karim is sleeping now. ,
+ Karim is sleeping now.  
+
+250. করিম তখন ঘুমাচ্ছিল। 
+
+ Karim was sleeping then.  
+
+251. করিম ঘুমাতে যাচ্ছে। 
+
+ Karim is going to sleep. ,
+ Karim is going to sleep. ,
+ Karim is going to sleep.  
+
+252. করিম কি ঘুমাচ্ছে? 
+
+ He read. ,
+ hc8dhe8  
+
+253. করিম কি তখন ঘুমাচ্ছিল? 
+
+ Was Karim sleeping then? ,
+ Karim was sleeping at  that moment. ,
+ Was Karim sleeping? ,
+ Was Karim sleeping?  
+
+254. করিম কি ঘুম থেকে উঠেছে?
+
+ has Karim waken up? ,
+ Has Karim woke up yet?  
+
+255. করিম ঘুম থেকে উঠেছে। 
+
+ Karim has woken up.  
+
+256. করিম ঘুম থেকে এখনও উঠেনি। 
+
+ 
+
+257. করিম এখনও ঘুমাচ্ছে। 
+
+ Karim is still sleeping. ,
+ Karim is still sleeping.  
+
+258. তুমি কেমন আছো? 
+
+ How are you? ,
+ How are you?  
+
+259. তোমরা কেমন আছো? 
+
+ how are you? ,
+ how are you? ,
+ How are you? ,
+ How are you? ,
+ How are you? ,
+ How are you?  
+
+260. মিনা কেমন আছে? 
+
+ How is Mina doing ? ,
+ how are you mina?  
+
+261. সে কেমন আছে? 
+
+ How is he\/she ? ,
+ How is he? ,
+ Father readst the newspaper every morning  
+
+262. তুমি কি ভাল আছো? 
+
+ Are you fine?  
+
+263. তোমরা কি ভাল আছো? 
+
+ Are you well? ,
+ are u fine? ,
+ Are you feeling good?  
+
+264. মিনা কি ভাল আছে? 
+
+ will you have a talk with him? ,
+ Is Mina well? ,
+ Is Mina well?  
+
+265. সে কি ভাল আছে? 
+
+ is he well? ,
+ Is she good ? ,
+ is he fine? ,
+ Is he well? ,
+ Is he fine? ,
+ Is he well?  
+
+266. আজ বাইরে অনেক রোদ। 
+
+ it is so hot today ,
+ It is really sunny outside today ,
+ It is sunny outside today.  
+
+267. গতকাল অনেক রোদ ছিল। 
+
+ It was very sunny yesterday. ,
+ Yesterday it was sunny.  
+
+268. বাইরে কি অনেক রোদ?
+
+ Is it too sunny today? ,
+ Is it sunny outside? ,
+ Is it very sunny outside? ,
+ is there too much sunshine outside?  
+
+269. রোদ কমলে আমরা বাইরে যাব। 
+
+ we will go outside after sun set ,
+ If we lose the sunshine,
+ we will go out. ,
+ If we lose the sunshine,
+ we will go out.  
+
+270. রোদ না কমলে আমরা বাইরে বের হব না। 
+
+ 
+
+271. বাইরে বেশি রোদ নেই। 
+
+ There is no more sunshine outside. ,
+ It is not very hot outside. ,
+ It is not very sunny outside  
+
+272. বাচ্চারা চকলেট পছন্দ করে।
+
+ children likes chocholate ,
+ kids love choclate.  
+
+273. বড়রা চকলেট পছন্দ করে না।
+
+ Older people do not like chocolates ,
+ My parents went to walk this morning.  
+
+274. বাচ্চারা মিষ্টি পছন্দ করে। 
+
+ Childrens like sweets. ,
+ Kids loves sweets.  
+
+275. বাচ্চারা মিষ্টি পছন্দ করে না। 
+
+ 
+
+276. বাচ্চারা আইসক্রিম পছন্দ করে। 
+
+ fhfhdhturt ,
+ Boye's like ice-crem ,
+ kids love icecream  
+
+277. বাচ্চারা আইসক্রিম পছন্দ করে না। 
+
+ Kids don't like icecream  
+
+278. বাচ্চারা কি চকলেট পছন্দ করে?
+
+ Do children love chocolates? ,
+ He\/she hates you.  
+
+279. বাচ্চারা কি মিষ্টি পছন্দ করে? 
+
+ Do children like sweet? ,
+ Do children like sweets? ,
+ Do the children like sweets ? ,
+ Do children like sweets?  
+
+280. বাচ্চারা কি আইসক্রিম পছন্দ করে?
+
+ Will you  talk to him? ,
+ Do children like icecream? ,
+ Does the children like ice-cream?  
+
+281. সে কলা খাচ্ছে। 
+
+ She is eating banana ,
+ He is eating banana.  
+
+282. সে কলা খাচ্ছিল। 
+
+ He was eating banana. ,
+ He was eating banana.  
+
+283. সে কলা খেতে চেয়েছে।
+
+ He wants to eat banana ,
+ He has wanted to eat banana. ,
+ He wanted to eat banana. ,
+ He wanted to eat banana  
+
+284. সে কি খেতে চেয়েছে?
+
+ what does he want to eat? ,
+ What did she want to eat ? ,
+ Has he wanted to eat?  
+
+285. সে কলা খাচ্ছে না। 
+
+ I sing ,
+ He is not eating a banana. ,
+ He is eating banana. ,
+ he is not eating bananas. ,
+ He is not eating banana.  
+
+286. সে কলা খেতে চায়নি। 
+
+ he didn't want to eat banana ,
+ She did not want to eat bananas. ,
+ Children play hide and seek in field in afternoon. ,
+ He didn't want to eat banana.  
+
+287. সে কলা খাচ্ছিল না। 
+
+ He was not eating a banana. ,
+ He was not eating banana. ,
+ He was not eating banana. ,
+ He was not eating banana.  
+
+288. সে কলা খেতে পছন্দ করে।
+
+ I don't read books. ,
+ He likes to eat banana.  
+
+289. সে কলা খেতে পছন্দ করে না।
+
+ He does not like to eat banana. ,
+ She does not like to eat bananas. ,
+ He doesn't like to eat banana.  
+
+290. সে কি কলা খেতে পছন্দ করে? 
+
+ Does he like to eat banana? ,
+ The farmer is working in the field ,
+ Does he like eating banana ?  
+
+291. তার এলাকায় বন্যা হয়েছে।
+
+ There was flood in his area. ,
+ He has got a flood in his area. ,
+ There's a flood in his area  
+
+292. তার এলাকায় কি বন্যা হয়েছে? 
+
+ 
+
+293. তার এলাকায় বন্যা হয়েছিল। 
+
+ His area had been flooded. ,
+ their place  is flooded  
+
+294. তার এলাকায় কি বন্যা হয়েছিল? 
+
+ 
+
+295. এ বছর অনেক বন্যা হয়েছে।
+
+ 
+
+296. এ বছর বন্যায় অনেক এলাকা তলিয়ে গেছে। 
+
+ 
+
+297. এ বছর তার এলাকায় বন্যা হয়েছে। 
+
+ 
+
+298. গতবছর তার এলাকায় ভয়াবহ বন্যা হয়েছিল। 
+
+ There was a terrible flood in his area last year.  
+
+299. এ বছর তার এলাকায় বন্যা হয়নি। 
+
+ there have been no flood this year.  
+
+300. এ বছর কি তার এলাকায় বন্যা হয়েছে? 
+
+ Has this year flooded his area? ,
+ Has it flooded in his area this year? ,
+ Has this year flooded his area?  
+
+301. বন্যা পরিস্থিতি এখন নিয়ন্ত্রনে এসেছে।
+
+ Flood situation is now under control. ,
+ The flood situation is under control ,
+ Flood condition is now in control.  
+
+302. বন্যা পরিস্থিতি এখনও নিয়ন্ত্রনে আসেনি।
+
+ Flood situation is not yet under control. ,
+ The flood hasn't come under control yet.  
+
+303. আমি তাকে খুঁজছি। 
+
+ I am searching him.  
+
+304. আমি তাকে খুঁজেছি। 
+
+ i am looking for him ,
+ i am looking for him ,
+ I am looking for her . ,
+ I looked for him.  
+
+305. আমি তাকে খুঁজছিলাম। 
+
+ I was looking for him. ,
+ I was looking for her.  
+
+306. আমি তাকে খুঁজব। 
+
+ I'll find him.  
+
+307. আমি তাকে খুঁজছি না। 
+
+ I am not searching him. ,
+ I am not searching her.  
+
+308. আমি তাকে খুঁজিনি। 
+
+ 
+
+309. আমি তাকে খুঁজছিলাম না। 
+
+ I was not looking for him. ,
+ I was not sesarching her. ,
+ I wasn't looking for him.  
+
+310. আমি তাকে খুঁজব না। 
+
+ I will not search for her ,
+ I shall not look for him.  
+
+311. আমি কি তাকে খুঁজব? 
+
+ shall I search for him? ,
+ Should I look for him? ,
+ Will I look for him?  
+
+312. আমি তোমাকে ভালবাসি
+
+ I love reading books. ,
+ I love you. ,
+ I love you.  
+
+313. সে তোমাকে ভালবাসে
+
+ he loves you ,
+ He loves you. ,
+ He loves you. ,
+ He loves you. ,
+ He loves you .  
+
+314. সে আমাকে ভালবাসে
+
+ he loves me. ,
+ He reads books everyday ,
+ He loves me.  
+
+315. আমি তাকে ভালবাসি
+
+ I love him.  
+
+316. প্রিয়া তাকে ভালবাসে
+
+ 
+
+317. আমরা মা বাবাকে ভালবাসি
+
+ this year flood occurs  
+
+318. মা আমাকে ভালবাসে
+
+ Mother loves me. ,
+ Mother loves me.  
+
+319. তুমি আমার ভালবাসা বুঝলে না
+
+ You couldn't understand my love.  
+
+320. তুমি কি জাননা কত ভালবাসি তোমায়?
+
+ dont u know how much i love u? ,
+ Do not you know how much you love? ,
+ Do you not know how much i love you? ,
+ Don't you know how much I love you? ,
+ Do you not know how much I love him?  
+
+321. সে আমার ভালবাসা বুঝলো না
+
+ 
+
+322. ভালবাসা দিবি কিনা বল
+
+ Will you love me or not?  
+
+323. ভালবাসা কি শুধুই কষ্ট?
+
+ 
+
+324. ভালবাসা মানেই কষ্ট
+
+ 
+
+325. ভালবাসা হলো এক ধরনের মায়া
+
+ Love is a kind of illusion. ,
+ Love is a kind attraction  
+
+326. আমি তাকে ঘৃণা করি
+
+ i hate him. ,
+ i hate him.  
+
+327. সে আমাকে ঘৃণা করে
+
+ He hates me ,
+ He hates me. ,
+ He hates me.  
+
+328. সে তোমাকে ঘৃণা করে
+
+ she hate you ,
+ He hates you. ,
+ He hates you.  
+
+329. আমি তোমাকে ঘৃণা করি
+
+ I hate you.  
+
+330. পিয়া তাকে ঘৃণা করে
+
+ Pia hates him. ,
+ Piya hates her. ,
+ piya hates him ,
+ Piya hates him. ,
+ pia hates him  
+
+331. মানুষের কষ্ট দেখাও কষ্টের কাজ
+
+ 
+
+332. বিকেল বেলা ক্লাস করা কষ্ট
+
+ 
+
+333. সকাল বেলা ক্লাস করা কষ্ট
+
+ its painful to present at clas every morning. ,
+ Trouble class classes in the morning ,
+ It is hard to go to class in morning. ,
+ it is painful to do class in morning  
+
+334. দুপুর বেলা ক্লাস করা কষ্ট
+
+ It is hard to attend class at noon. ,
+ It is very painful to attend classes in the afternoon .  
+
+335. ছুটির দিনে ক্লাস করা কষ্ট
+
+ It is difficult to attend class on holiday.  
+
+336. ক্লাস করাই কষ্ট
+
+ 
+
+337. ছুটির দিনে পরীক্ষা দেওয়া কষ্ট
+
+ it is painful to set exan in holday ,
+ father is going for a walk ,
+ Giving examinations on holidays is painful.  
+
+338. তাকে ছাড়া ফয়সাল কষ্টে আছে 
+
+ Foysal is  is sorrow  without him ,
+ Faisal is in trouble without him ,
+ I will not be busy tomorrow ,
+ Faisal is sad without her.  
+
+339. সে কষ্ট করে কাজটি করেছে
+
+ He did the work through hardship.  
+
+340. সে কষ্ট করে কাজটি করেছিল
+
+ He did the work through hardship. ,
+ Mother cooked many foods today.  
+
+341. আমি কষ্ট করে কাজটি করেছি
+
+ i pain  
+
+342. আমি কষ্ট করে কাজটি করেছিলাম
+
+ I had done the work by hard labour.  
+
+343. সে জীবনে অনেক কষ্ট করেছে
+
+ hE WORKED HARD IN HIS LIFE ,
+ yes he did ,
+ are you busy?  
+
+344. যে তোমার দোষ ধরে বন্ধু সেইজন
+
+ He who finds your fault is a friend  
+
+345. সেই প্রকৃত বন্ধু যে তোমার দোষ ধরে
+
+ 
+
+346. সে আমার বন্ধু ছিল
+
+ They are my friend\r\nHe was my friend  
+
+347. আমি তার বন্ধু
+
+ I am her friend. ,
+ I am his friend ,
+ i am his friend ,
+ I am his friend. ,
+ I am his friend . ,
+ I am his friend.  
+
+348. সে কি তোমার বন্ধু ছিল?
+
+ Was she your friend ,
+ is she your friend? ,
+ Was he your friend? ,
+ Was he your friend?  
+
+349. দুর্ভাগ্যবান তারাই যাদের প্রকৃত বন্ধু নেই
+
+ Those whom has no real friends are unfortunate ,
+ Those are unfortunate  who has no friends ,
+ Unfortunate are those who don't have any real friend.  
+
+350. তোমার কি কোন বন্ধু আছে?
+
+ Do you have any friends ,
+ Do you have any friend?  
+
+351. কোন বন্ধু আছে তোমার?
+
+ do you have any friend  
+
+352. ওরা সবাই আমার বন্ধু
+
+ They are all my friend. ,
+ They are all my friends.  
+
+353. ওরা আমার বন্ধু
+
+ They are my friends.  
+
+354. আমরা ভাল বন্ধু
+
+ We are good friends. ,
+ We're good friends. ,
+ We are good friends. ,
+ We are good friends.  
+
+355. আমরা অনেক ভাল বন্ধু
+
+ We are good friends. ,
+ We are very good friends.  
+
+356. আমি রাজনীতি করি
+
+ 
+
+357. আমি রাজনীতি করি না
+
+ I'm not included in politics.  
+
+358. সে রাজনীতি করে
+
+ He does politics.  
+
+359. সে কি রাজনীতি করে?
+
+ 
+
+360. আমাকে উপদেশ দিতে এসো না
+
+ donot come to advise me  
+
+361. তোমার উপদেশ আমার দরকার নেই
+
+ 
+
+362. তোমার উপদেশ তোমার কাছেই রাখো
+
+ keep your advice yourself ,
+ Keep your advice to yourself. ,
+ Keep your advice to you ,
+ Keep your advice to yourself ,
+ Keep your advises to yourself.  
+
+363. তাকে উপদেশ দিয়ে কোন লাভ নেই
+
+ its no good advisin him?  
+
+364. তাকে উপদেশ দিয়ে লাভ নেই
+
+ 
+
+365. সে উপদেশ দিতে পছন্দ করে
+
+ She likes to give advice ,
+ He\/she loves giving advice.  
+
+366. সে উপদেশ দিতে ভালবাসে
+
+ He loves to give advises.  
+
+367. আমি ফুটবল খেলি
+
+ I play football. ,
+ I play football . ,
+ I play football.  
+
+368. আমি ফুটবল খেলছি
+
+ I am playing football.  
+
+369. আমি ফুটবল খেলছিলাম
+
+ i was playing football. ,
+ I was playing football. ,
+ I was playing football. ,
+ I was playing football ,
+ I was playing football.  
+
+370. আমি ফুটবল খেলতাম
+
+ I used to play football.  
+
+371. আমি ফুটবল খেলি না
+
+ I don't play football. ,
+ I don't play football.  
+
+372. আমি ফুটবল খেলছি না
+
+ I ain't playing football.  
+
+373. আমি ফুটবল খেলছিলাম না
+
+ i wasn't playing football ,
+ I was not playing football. ,
+ Mizan will go to shop. ,
+ I was not playing football.  
+
+374. আমি ফুটবল খেলব
+
+ I'll play football. ,
+ i will play football. ,
+ I will play football.  
+
+375. আমি ফুটবল খেলব না
+
+ I will not play football.  
+
+376. আমি এখন ফুটবল খেলব
+
+ Now I play football ,
+ I will play football now. ,
+ I am going to play football now.  
+
+377. আমি এখন ফুটবল খেলব না
+
+ I will not play football anymore ,
+ I will not play football anymore ,
+ I won't play football right now. ,
+ I will not play football anymore ,
+ i will not play football now  
+
+378. তুমি কি ফুটবল খেল?
+
+ Do you play football? ,
+ Do you play football? ,
+ Are you playing football? ,
+ Do you play football?  
+
+379. তুমি কি কখোনো ফুটবল খেলেছ?
+
+ 
+
+380. তুমি কি ফুটবল খেলছিলে?
+
+ had u played football? ,
+ Were you playing soccer? ,
+ Did you play Football?  
+
+381. তুমি কি ফুটবল খেলবে?
+
+ Will you play soccer? ,
+ Do you sing? ,
+ Is mother's cooking over? ,
+ Will you play football? ,
+ Will you play football? ,
+ Will you play football? ,
+ Rahim is going to travel with his family next week.  
+
+382. রুমি ফুটবল খেলে
+
+ Rumi plays football. ,
+ rumi play football ,
+ Rumi plays football.  
+
+383. রুমি ফুটবল খেলছে
+
+ Rumi is playing football. ,
+ Rumi is playing football.  
+
+384. রুমি ফুটবল খেলছিল
+
+ 
+
+385. রুমি ফুটবল খেলত
+
+ Rumi used to play football ,
+ I do not read books  
+
+386. রুমি ফুটবল খেলে না
+
+ Rumi doesnot play football. ,
+ Rumi does not play football. ,
+ Rumi does not play football ,
+ Rumi does not play football ,
+ p;ease inform me  
+
+387. রুমি ফুটবল খেলছে না
+
+ Rumi is not playing football. ,
+ Rumi is not playing football. ,
+ Rumi is not playing football. ,
+ Rumi is not playing football . ,
+ Rumi is not playing football.  
+
+388. রুমি ফুটবল খেলছিল না
+
+ Rumi was not playing football. ,
+ Rumi was not playing football. ,
+ Rumi wasn't playing football. ,
+ Rumi was not playing football ,
+ Rumi wasn't playing football. ,
+ Rumi was not playing football. ,
+ Rumi was not playing football. ,
+ Rumi wasn't playing football .  
+
+389. রুমি ফুটবল খেলবে
+
+ Do you sing?Rumi will play football ,
+ I was not busy yesterday.  
+
+390. রুমি ফুটবল খেলবে না
+
+ Rumi will not play football ,
+ Rumi will not play football. ,
+ Rumi won't play football.  
+
+391. রুমি কাল ফুটবল খেলবে
+
+ Rumi Kal will play football tomorrow ,
+ Rumi will play football tomorrow. ,
+ Rumi will play football. ,
+ Rumi will play football tomorrow.  
+
+392. রুমি কাল ফুটবল খেলবে না
+
+ 
+
+393. রুমি কি আমাদের সাথে ফুটবল খেলবে?
+
+ Will Rumi play football with us? ,
+ Will Rumy play football with us? ,
+ Will Rumi play football with us? ,
+ Will Rumi play football with us ? ,
+ Did father go to market? ,
+ Will Roomy play football with us? ,
+ will  Rumi   play football with us ?  
+
+394. রুমি কি আমাদের সাথে ফুটবল খেলবে না?
+
+ 
+
+395. রুমি কি ফুটবল খেলতে পারে?
+
+ can Rumi play football ?  
+
+396. রুমি কি ফুটবল খেলতে পারে না?
+
+ Can Roomy play football ,
+ Can't Rumi play football? ,
+ Can't Rumi play football?  
+
+397. সে বই পড়ে
+
+ He reads book. ,
+ He reads books. ,
+ He reads book.  
+
+398. সে বই পড়ছে
+
+ he is reading book  
+
+399. সে বই পড়ছিল
+
+ He was reading book. ,
+ She was reading the book ,
+ He was reading a book.  
+
+400. সে বই পড়বে
+
+ He will read books. ,
+ He will read book. ,
+ He will read a book.  
+
+401. সে বই পড়ে না
+
+ she do not  read book ,
+ He doesnt read book ,
+ He doesn't read books. ,
+ He doesn't read books. ,
+ He doesn't read books. ,
+ He doesn't read books. ,
+ He doesn't read books.  
+
+402. সে বই পড়ছে না
+
+ she does not reading book  
+
+403. সে বই পড়ছিল না
+
+ he was not reading books. ,
+ He was not reading book. ,
+ He was not reading a book. ,
+ He was not reading book.  
+
+404. সে বই পড়বে না
+
+ he will not read book  
+
+405. সে কি বই পড়ে?
+
+ Does he read books?  
+
+406. সে কি বই পড়ছে?
+
+ Is he reading a book? ,
+ is he reading a book? ,
+ is he reading book? ,
+ Is he reading book?  
+
+407. সে কি বই পড়ছিল?
+
+ Was he reading the book? ,
+ Was he reading books? ,
+ Does Karim go to school?  
+
+408. সে কি বই পড়বে?
+
+ Will he read a book? ,
+ Will he read book?  
+
+409. সে কি বই পড়ে না?
+
+ 
+
+410. সে কি পড়ছে না?
+
+ Isn't he reading ? ,
+ Isn't he reading?  
+
+411. সে কি বই পড়ছিল না?
+
+ Was he not reading a book? ,
+ Was he not reading a book? ,
+ Was he not reading book? ,
+ Was he not reading books?  
+
+412. সে রোজ বই পড়ে
+
+ He reads book daily.  
+
+413. সে মাঝে মাঝে বই পড়ে
+
+ Sometimes he reads book. ,
+ He seldom  reads books. ,
+ he reads book sometimes ,
+ He often reads books. ,
+ He reads books sometimes.  
+
+414. সে বই পড়তে ভালবাসে
+
+ He loves to read books. ,
+ He loves to read books.  
+
+415. সে বই পড়তে ভালবাসে না 
+
+ He doesn't like reading books.  
+
+416. সে রোজ বই পড়ে না
+
+ He doesn't read books daily.  
+
+417. আমি বই পড়ি
+
+ I read books. ,
+ i read book  
+
+418. আমি বই পড়ছি
+
+ I am reading a book. ,
+ I am reading a book ,
+ I am reading book. ,
+ I am reading a book. ,
+ i am reading ,
+ I am reading a book.  
+
+419. আমি বই পড়ছি্লাম
+
+ I was reading book ,
+ I was reading book ,
+ I was reading book  
+
+420. আমি বই পড়ব
+
+ I want to read a book. ,
+ I will read a book ,
+ I will read book.  
+
+421. আমি বই পড়ি না
+
+ I don't read books.  
+
+422. আমি বই পড়ছি না
+
+ i am not reading a book. ,
+ I am not reading book. ,
+ I am not reading book.  
+
+423. আমি বই পড়ছি্লাম না
+
+ i wasn't reading book ,
+ I wasn't reading books. ,
+ Rumi will not play football tomorow. ,
+ I wasn't reading books.  
+
+424. আমি বই পড়ব না
+
+ I will not read book. ,
+ I won't read a book. ,
+ I wont read a book. ,
+ i will not read book ,
+ i will not read book  
+
+425. তুমি কি বই পড়?
+
+ Do you read books? ,
+ do u read books? ,
+ Do u read book ? ,
+ Do you read books? ,
+ Do you read book? ,
+ do you read book  
+
+426. তুমি কি বই পড়ছ?
+
+ Have you finished the work? ,
+ Are you reading a book?  
+
+427. তুমি কি বই পড়ছিলে?
+
+ Were you reading a book?  
+
+428. তুমি কি বই পড়বে?
+
+ 
+
+429. তুমি কি বই পড় না?
+
+ Aren't you read book ,
+ Don't you read book? ,
+ Don't you read books?  
+
+430. তুমি কি পড়ছ না?
+
+ Are you not reading? ,
+ Are you not reading? ,
+ Aren't you studying ? ,
+ ahsuhgisu  
+
+431. তুমি কি বই পড়ছি্লে না?
+
+ You were not reading the book?  
+
+432. আমি রোজ বই পড়ি
+
+ I read book daily. ,
+ I read book regurlarly  
+
+433. আমি মাঝে মাঝে বই পড়ি
+
+ I  sometimes read books.  
+
+434. আমি বই পড়তে ভালবাসি
+
+ I love to read books ,
+ I love to read book. ,
+ I love to read books.  
+
+435. আমি বই পড়তে ভালবাসি না 
+
+ I don't enjoy reading books. ,
+ I don't like to read books.  
+
+436. আমি রোজ বই পড়ি না
+
+ 
+
+437. মিতু গান গায় 
+
+ Mitu's singing a song ,
+ Mitu sings song . ,
+ Mitu sings.  
+
+438. মিতু গান গাচ্ছে
+
+ Mitu is singing ,
+ Mitu is singing. ,
+ Mitu is singing. ,
+ Mitu is singing song . ,
+ i will  not go to market  
+
+439. মিতু গান গাচ্ছিল
+
+ Mitu was singing ,
+ mitu is singing song ,
+ Mitu was singing. ,
+ Mitu was singing song . ,
+ He\/she hates me.  
+
+440. মিতু গান গায় না
+
+ mitu doesnt sing  
+
+441. মিতু গান গেতে পারে 
+
+ Mitu can sing. ,
+ Mitu can't sing a song.  
+
+442. মিতু গান গেতে পারে না
+
+ Mitu can't sing.  
+
+443. মিতু গান গাচ্ছে না
+
+ Mitu does not sing the song ,
+ Mitu is not singing. ,
+ Mitu isn't singing song .  
+
+444. মিতু গান গাচ্ছিল না 
+
+ Mitu wasn't singing. ,
+ MItu was not singing song.  
+
+445. মিতু অনেক সুন্দর গান গায়
+
+ 
+
+446. মিতু কি গান গায়?
+
+ Does Mitu sing songs ? ,
+ does mitu sing ,
+ Rumi play soccer.  
+
+447. মিতু কি গান গাচ্ছে?
+
+ Is Mitu singing? ,
+ Is Mitu singing song? ,
+ Is Mitu singing? ,
+ Is Mitu singing?  
+
+448. মিতু কি গান গাচ্ছিল?
+
+ Was Mitu singing a song? ,
+ Was Mitu singing song?  
+
+449. আমি গান গাই
+
+ I sing ,
+ I sing  
+
+450. আমি গান গাচ্ছি
+
+ I am singing song. ,
+ Kids are playing football.  
+
+451. আমি গান গাচ্ছিলাম 
+
+ I was singing. ,
+ I was singing. ,
+ I was singing song.  
+
+452. আমি গান গাই না
+
+ I don't sing . ,
+ I don't sing ,
+ I do not sing.  
+
+453. আমি গান গাচ্ছি না
+
+ I'm not singing ,
+ I am not singing ,
+ I am not singing.  
+
+454. আমি গান গাচ্ছিলাম না
+
+ I was'nt singing a song.  
+
+455. আমি গান গেতে পারি না
+
+ I can't sing a song. ,
+ I can't sing a song. ,
+ I don't know how to sing. ,
+ I can't sing.  
+
+456. তুমি কি গান গাও?
+
+ DO you sing? ,
+ Do you sing  
+
+457. তুমি গান গাচ্ছ?
+
+ Are you singing?  
+
+458. তুমি কি গান গাচ্ছিলে?
+
+ Were you singing?  
+
+459. তুমি অনেক সুন্দর গান গাও
+
+ you sing beautifully ,
+ You sing very well. ,
+ You sing beautifully. ,
+ You sing really good ,
+ You sing very well.  
+
+460. মা রান্না করে
+
+ Mother cook food ,
+ Mother cooks ,
+ Mother cooks. ,
+ Mother is cooking.  
+
+461. মা রান্না করছে
+
+ Mother is cooking ,
+ Mother cooks  food  
+
+462. মা রান্না করছিল
+
+ Mother was cooking food. ,
+ Mother was cooking ,
+ Mother was cooking. ,
+ mother was cooking food. ,
+ Mother was cooking food . ,
+ Mother was cooking.  
+
+463. মা কী রান্না করে?
+
+ what is mother cooking? ,
+ What the mother cooks? ,
+ Is mother cooking? ,
+ What is mother cooking? ,
+ What is mom cooking?  
+
+464. মা কী রান্না করছে?
+
+ What is mother cooking? ,
+ What is mother cooking?  
+
+465. মা কী রান্না করছিল? 
+
+ What was mom cooking? ,
+ What was mom cooking? ,
+ What was the mother cooking?  
+
+466. মা রোজ রান্না করে
+
+ mother cooks every day ,
+ Mother cooks daily ,
+ Mother cooks everyday. ,
+ Mother cooks food everyday .  
+
+467. মা মাঝে মাঝে রান্না করে
+
+ My mom often cooks.  
+
+468. মা রান্না করছে না
+
+ 
+
+469. মা রান্না করছিল না
+
+ Mother wasn't cooking ,
+ Mom was not cooking. ,
+ Mother was not cooking. ,
+ Mother wasn't cooking.  
+
+470. মা রোজ মজার মজার রান্না করে
+
+ mom cooks delicious foods daily ,
+ Mom cooks delicious dishes everyday ,
+ Mother cooks delicious food everyday .  
+
+471. আমি হাঁটি
+
+ I walk. ,
+ I am walking.  
+
+472. আমি রোজ সকালে হাঁটি
+
+ Hasan was flying a kite. ,
+ I walk in the morning daily.  
+
+473. আমি রোজ হাঁটি
+
+ i walk everyday ,
+ I walk regularly. ,
+ i walk everyday. ,
+ I walk regularly.  
+
+474. আমি মাঝে মাঝে হাঁটি
+
+ I walk sometimes. ,
+ I seldom walk .  
+
+475. আমি হাঁটি না
+
+ I don't walk. ,
+ I don't walk.  
+
+476. আমি রোজ হাঁটি না
+
+ Mom sent Mizan to the store?  
+
+477. তুমি কি হাঁট?
+
+ Do you walk ? ,
+ Are you walking ,
+ Do you walk?  
+
+478. তুমি কি রোজ হাঁট?
+
+ Do you walk regularly? ,
+ Do you walk regularly ? ,
+ Do you walk everyday ? ,
+ Do you walk daily? ,
+ Are you walk every day  
+
+479. তুমি কি রোজ সকালে হাঁট?
+
+ kkk ,
+ Do you walk  every morning?  
+
+480. সে হাঁটে
+
+ He walks  
+
+481. সে হাঁটে না
+
+ She doesn't walk. ,
+ she don't walk ,
+ He dosen't walk.  
+
+482. বাবা বিশ্রাম নিচ্ছেন।
+
+ My father is taking rest. ,
+ Father's resting  
+
+483. বাবা বিশ্রাম নিচ্ছিলেন। 
+
+ Baba was taking rest ,
+ Father was taking rest.  
+
+484. বাবা কি বিশ্রাম নিচ্ছেন? 
+
+ Is father taking rest?  
+
+485. বাবার কি বিশ্রাম নেয়া শেষ? 
+
+ 
+
+486. বাবা বিশ্রাম নিচ্ছেন না।
+
+ Father isn't taking rest. ,
+ father do not taking rest ,
+ Parents are not taking rest. ,
+ Father is not taking rest. ,
+ Father is not taking rest.  
+
+487. বাবা বিশ্রাম নিচ্ছিলেন না। 
+
+ Father was not taking rest.  
+
+488. বাবা এখন বিশ্রাম করছেন।
+
+ The father is now resting.  
+
+489. এখন বাবার বিশ্রামের সময়।
+
+ It is time for father to take rest.  
+
+490. এখন কি বাবার বিশ্রামের সময়?
+
+ 
+
+491. এখন বাবার বিশ্রামের সময় না। 
+
+ Now is not father's resting time ,
+ It's not father's resting time.  
+
+492. বাবা এখন বিশ্রাম করছেন না।
+
+ Father is not resting now ,
+ father is not resting now.  
+
+493. ঢাকা একটি বড় শহর।
+
+ Dhaka is a big city.  
+
+494. ঢাকা বাংলাদেশের রাজধানী।
+
+ Dhaka is the capital of Bangladesh. ,
+ dhaka is the capital of Bangladesh. ,
+ Dhaka is the capital of Bangladesh. ,
+ Dhaka is the capital of Bangladesh.  
+
+495. ঢাকা একটি জনবহুল শহর। 
+
+ Dhaka is a populous city. ,
+ Dhaka is a crowded city.  
+
+496. ঢাকা বাংলাদেশের সবচেয়ে বড় শহর। 
+
+ Dhaka is the biggest city of Bangladesh. ,
+ Dhaka is the largest city of Bangladesh.  
+
+497. ঢাকা শহরে অনেক মানুষ বাস করে।   
+
+ 
+
+498. সে ঢাকা শহরে বাস করে। 
+
+ He lives in Dhaka. ,
+ She lives in Dhaka city . ,
+ He lives in dhaka city. ,
+ He lives in Dhaka city .  
+
+499. সে কি ঢাকা শহরে বাস করে? 
+
+ Does he live in Dhaka city? ,
+ Does she live in Dhaka?  
+
+500. সে ঢাকা শহরে বাস করে না। 
+
+ Doesnt he live in dhaka? ,
+ He does not live in Dhaka city. ,
+ He does not live in Dhaka city.  
+
+501. সে ঢাকা শহরে বাস করত।  
+
+ 
+
+502. সে এখন আর ঢাকা শহরে বাস করে না। 
+
+ He does not live in Dhaka anymore. ,
+ He does not live in Dhaka anymore. ,
+ She does not live in Dhaka city anymore. ,
+ He doesn't live in dhaka anymore.  
+
+503. সে আগে ঢাকা শহরে বাস করত। 
+
+ He lived in Dhaka city earlier. ,
+ He lived in Dhaka city earlier.  
+
+504. কৃষক ক্ষেতে কাজ করছে। 
+
+ farmar work in the fild  
+
+505. কৃষক ক্ষেতে কাজ করছে না।
+
+ I will Farmers is not working in the fieldnot eat Rice  
+
+506. কৃষক ক্ষেতে কাজ করছিল। 
+
+ The farmer was working in the field. ,
+ Farmers were working in the field. ,
+ MY mother wasn't cooking.  
+
+507. কৃষক কি ক্ষেতে কাজ করছে?
+
+ 
+
+508. কৃষক ক্ষেতে কাজ করতে যাচ্ছে। 
+
+ 
+
+509. কৃষক ক্ষেতে কাজ করতে যাচ্ছিল। 
+
+ The farmer was going to work in the field.  
+
+510. কৃষক প্রতি সকালে ক্ষেতে কাজ করতে যায়। 
+
+ Farmer goes to the field every morning.  
+
+511. কৃষক আজ ক্ষেতে কাজ করতে যাবে না। 
+
+ 
+
+512. রাখাল মাঠে গরু চড়াচ্ছে। 
+
+ The shepherd is grazing in the field.  
+
+513. রাখাল মাঠে গরু চড়াচ্ছে না। 
+
+ Shepard wasn't catering the cows in the field ,
+ The shepherd is not grazing cows in the field.  
+
+514. রাখাল কি মাঠে গরু চড়াচ্ছে?
+
+ 
+
+515. রাখাল মাঠে গরু চড়াচ্ছিল।  
+
+ Do the work with care. ,
+ shepherd  
+
+516. রাখাল মাঠে গরু চড়াচ্ছিল না।  
+
+ 
+
+517. রাখাল মাঠে গরু চড়াতে নিয়ে যাচ্ছে।  
+ The shepherd is taking the cows to the field.  
+
