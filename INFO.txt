@@ -1,10 +1,8 @@
-2. create an database in phpmyadmin(translator) 
+1. create an database in phpmyadmin(translator) 
 2. php artisan migrate --seed
-4. hit "localhost:8000/fileToDatabase"
+3. hit "localhost:8000/fileToDatabase"
 
 Admin Credential:
 login with password:
 username:admin
 pass: ADMIN
-
- 
